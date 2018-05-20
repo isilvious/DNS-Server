@@ -1,6 +1,7 @@
-DNS-Server
+DNS-Server 
+by: Isaac Silvious
 
-includes:
+Includes:
 DNSserver.py
 zonebuilder.py
 	
